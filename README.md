@@ -2,5 +2,5 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats-guilherme-couto.vercel.app/api?username=guilherme-couto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-guilherme-couto.vercel.app/api/top-langs/?username=guilherme-couto&hide=javascript&theme=tokyonight)](https://github.com/guilherme-couto/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-noexp.vercel.app/api?username=guilherme-couto&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-noexp.vercel.app/api/top-langs/?username=guilherme-couto&hide=javascript&theme=tokyonight)](https://github.com/guilherme-couto/github-readme-stats)
