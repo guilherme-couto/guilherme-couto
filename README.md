@@ -1,6 +1,14 @@
-### Olá! Eu sou o Guilherme! 🤘
+## Guilherme Couto
+ <div>
+  <a href="https://github.com/guilherme-couto">
+</div>
 
-##
+#### Skills
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,python)](https://skills.thijs.gg)
 
-![Anurag's GitHub stats](https://github-readme-stats-noexp.vercel.app/api?username=guilherme-couto&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats-noexp.vercel.app/api/top-langs/?username=guilherme-couto&theme=merko&hide_progress=true)](https://github.com/guilherme-couto/github-readme-stats)
+#### Socials
+<div> 
+  <a href = "mailto:couto.guilherme@engenharia.ufjf.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/guilherme-martins-couto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/guilhermizacao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
