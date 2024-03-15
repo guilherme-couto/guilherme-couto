@@ -4,7 +4,7 @@
 </div>
 
 #### Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,python,java,javascript)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,python,java)](https://skills.thijs.gg)
 
 #### Socials
 <div> 
