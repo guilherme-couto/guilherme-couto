@@ -3,9 +3,6 @@
   <a href="https://github.com/guilherme-couto">
 </div>
 
-#### Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,python,java)](https://skills.thijs.gg)
-
 #### Socials
 <div> 
   <a href = "mailto:guiguimcouto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
